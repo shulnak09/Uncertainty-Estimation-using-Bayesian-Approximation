@@ -5,8 +5,7 @@ forecasting for pedestrians. Our probabilistic model using MC dropout outperform
 methods in terms of perfromance metrics like ADE and FDE.
 
 
-##### Sample Trajectoy prediction with uncertainty. As per literature, we observe 8 (3.2 secs) historical steps to predict 
-12 steps (4.8 secs) into future.
+##### Sample Trajectoy prediction with uncertainty. As per literature, we observe 8 (3.2 secs) historical steps to predict 12 steps (4.8 secs) into future.
   
   ![alt text](https://virginiatech-my.sharepoint.com/:b:/g/personal/anshulnayak_vt_edu/EbpFUEC6QVZOs43SHGX6_bcBPX6RChSy3-QjalA9OiMHkQ?e=2x90lH)
 
