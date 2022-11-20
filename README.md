@@ -7,7 +7,7 @@ methods in terms of perfromance metrics like ADE and FDE.
 
 ##### Sample Trajectoy prediction with uncertainty. As per literature, we observe 8 (3.2 secs) historical steps to predict 12 steps (4.8 secs) into future.
   
-  ![1D_CNN_ETH_traj_do_0.2_and_FP_4.8_secs_ID_58_traj_legend.pdf](https://github.com/shulnak09/Uncertainty-Estimation-using-Bayesian-Approximation/files/10050701/1D_CNN_ETH_traj_do_0.2_and_FP_4.8_secs_ID_58_traj_legend.pdf)
+![CNN_LSTM_ETH_UQ_do_0 2_and_FP_4 8_secs](https://user-images.githubusercontent.com/46387604/202926724-0b647442-3ed8-4788-b5d3-dd5ce26e6f14.png)
 
 
 **cite** 
